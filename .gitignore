@@ -1,0 +1,6 @@
+*.log
+*.pyc
+*workspace.xml
+*DS_Store
+*/__pycache__/*
+.idea
